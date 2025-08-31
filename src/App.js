@@ -1,4 +1,4 @@
-import React, { useState, useRef } from 'react';
+import React, { useState } from 'react';
 import './App.css';
 import human_speaking from './assets/human.gif'
 import non_taking from './assets/non-speaking.png';
